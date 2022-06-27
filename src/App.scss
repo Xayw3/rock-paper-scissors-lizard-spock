@@ -1,0 +1,10 @@
+@import './reset.scss';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@600&display=swap');
+
+
+body {
+  background: linear-gradient(107.56deg, #000000 0.09%, #09090F 51.77%, #05061E 100%);
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 600;
+  height: 100vh;
+}
